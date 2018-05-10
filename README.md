@@ -1,2 +1,1 @@
- ##FINITY WARMTH
- <embed src="//music.163.com/style/swf/widget.swf?sid=36812358&type=1&auto=1&width=310&height=90" width="330" height="110"  allowNetworking="all"></embed>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=1&id=36812358&auto=0&height=90"></iframe>
