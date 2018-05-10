@@ -1,1 +1,2 @@
-https://music.163.com/outchain/player?type=1&id=36812358&auto=0&height=90%22%3E%3C/iframe%3E
+<!DOCTYPE html>
+<embed src="//music.163.com/style/swf/widget.swf?sid=36812358&type=1&auto=0&width=310&height=90" width="330" height="110"  allowNetworking="all"></embed>
