@@ -1,3 +1,3 @@
 # cursochengdu.github.io
 FINITY WARMTH
-<a href="https://cursochengdu.github.io/mainpage.html">Show You</a>
+<a href="https://cursochengdu.github.io/showyou.html">Show You</a>
